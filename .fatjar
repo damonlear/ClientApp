@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Apr 13 20:36:23 CST 2018
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ClientApp_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.galian.ClientApp
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
